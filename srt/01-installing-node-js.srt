@@ -1,0 +1,128 @@
+1
+00:00:05,000 --> 00:00:09,000
+Oi! Meu nome é Jamie Osborne e eu sou ?? Dou aulas na NewCircle
+
+2
+00:00:09,000 --> 00:00:13,000
+Se você for igual a mim, você usa node.js ou talvez queirá usar node.js.
+
+3
+00:00:13,000 --> 00:00:17,000
+Nos últimos 3 anos eu o tenho usado muito e pensei
+
+4
+00:00:17,000 --> 00:00:20,000
+Se poderia retratar em vídeo algo que pudesse salvar algum tempo seu quando
+
+5
+00:00:20,000 --> 00:00:23,000
+você estivesse iniciando no mundo node.js. Quero salvar você de alguns enganos
+
+6
+00:00:23,000 --> 00:00:24,000
+que eu cometi
+
+7
+00:00:24,000 --> 00:00:28,000
+e mostrar uma introdução de 10 minutos ao ambiente node.js
+
+8
+00:00:28,000 --> 00:00:31,000
+Ou pelo menos a importância deste framework que você quer usar no mundo atualmente.
+
+9
+00:00:31,000 --> 00:00:35,000
+Então se você está assistindo este vídeo irei assumir que você não tenha o node.js
+
+10
+00:00:35,000 --> 00:00:36,000
+instalado. Vamos fazer isso,
+
+11
+00:00:36,000 --> 00:00:41,000
+nosso primeiro pedido
+
+12
+00:00:41,000 --> 00:00:45,000
+Vá para seu navegador e para o endereço nodejs.org
+
+13
+00:00:45,000 --> 00:00:50,000
+Eu realmente recomendo usar
+
+14
+00:00:50,000 --> 00:00:54,000
+este pacote de instalação, mas temos vários outros meios de se fazer
+
+15
+00:00:54,000 --> 00:00:57,000
+Eu irei instalar a versão mais canônica para Mac
+
+16
+00:00:57,000 --> 00:01:02,000
+Click em downloads - Para uma maior consistência
+
+17
+00:01:02,000 --> 00:01:05,000
+Eu irei usar uma versão mais antiga do node.js
+
+18
+00:01:05,000 --> 00:01:11,000
+Um pouco atrás de alguns lançamentos e pegarei a versão 10.13
+
+19
+00:01:11,000 --> 00:01:15,000
+Eu estou num Mac, este é um bom pacote de download
+
+20
+00:01:15,000 --> 00:01:20,000
+ - 
+
+21
+00:01:20,000 --> 00:01:23,000
+Estou com uma grande conexão aqui, é maravilhoso
+
+22
+00:01:23,000 --> 00:01:27,000
+Vá para o lugar
+
+23
+00:01:27,000 --> 00:01:31,000
+É fácil de acessar a partir da linha de comando e o prompt está pronto para configuração
+
+24
+00:01:31,000 --> 00:01:35,000
+Instalando para todos os usuários
+
+25
+00:01:35,000 --> 00:01:39,000
+Em apenas dois minutos já o temos instalado
+
+26
+00:01:39,000 --> 00:01:41,000
+Agora vamos testá-lo
+
+27
+00:01:41,000 --> 00:01:45,000
+Vá para a linha de comando e faça um
+
+28
+00:01:45,000 --> 00:01:49,000
+node menos menos version (node --version)
+
+29
+00:01:49,000 --> 00:01:52,000
+E o Node Pack Manager NPM vem junto com a instalação pois realmente precisamos dele
+
+30
+00:01:52,000 --> 00:01:53,000
+hoje
+
+31
+00:01:53,000 --> 00:01:56,000
+e podemos ver a versão 10.13 foi instalada
+
+32
+00:01:56,000 --> 00:02:06,000
+e a versão 1.3.2 do NPM também pronta para uso
+
