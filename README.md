@@ -6,7 +6,7 @@
 
 #### LEGENDA: ✎ em tradução | ✔ traduzido | ✕ não traduzido (será traduzido em breve)
 
-* 01 - Installing Node.js ✕
+* 01 - Installing Node.js ✔
 * 02 - Building our Project ✕
 * 03 - Handlebars: Switching the Template Engine ✕
 * 04 - Adding our First Template ✕
