@@ -1,6 +1,8 @@
 # Node.js - Jumpstart for Devs > Legendas pt-br
 
-Repositórios para legendas em português-BR do curso Node.js - Jumpstart for Devs - NewCircle Training
+#### Repositórios para legendas em português-BR do curso Node.js - Jumpstart for Devs - NewCircle Training
+
+## Link Para os vídeos [AQUI](http://www.youtube.com/watch?v=jXgAcjVQZ6c&list=SPndbWGuLoHeaqf-IS7Ni0d6pIxLfLUynV)
 
 #### LEGENDA: ✎ em tradução | ✔ traduzido | ✕ não traduzido (será traduzido em breve)
 
