@@ -1,172 +1,171 @@
 1
 00:00:05,000 --> 00:00:06,000
-right now and %uh
+Hi! now i build our project (?)
 
 2
 00:00:06,000 --> 00:00:10,000
-nap in 10 minutes in fact no Jess isn't good at everything out there anyway but
+App em 10 minutos(?). na verdade, Node.js não é útil para tudo mas
 
 3
 00:00:10,000 --> 00:00:13,000
-we want to do is going to focus on what no jess is good at
+O que queremos fazer é manter o foco no que o Node.js é bom
 
 4
 00:00:13,000 --> 00:00:17,000
-so we're gonna build a web application first things first
+Então vamos criar uma aplicação web. Em primeiro lugar
 
 5
 00:00:17,000 --> 00:00:20,000
-we need to get ourselves and tools to work with so use
+Precisamos obter as ferramentas de trabalho necessárias, então usaremos
 
 6
 00:00:20,000 --> 00:00:25,000
-the node package manager to do that the N CAM repository
+O node package manager para isto. O repositório N CAM (?)
 
 7
 00:00:25,000 --> 00:00:28,000
-is a collection have third party software that is available for everyone
+É uma coleção de softwares de terceiros disponível para todos
 
 8
 00:00:28,000 --> 00:00:29,000
-to use
+Para uso
 
 9
 00:00:29,000 --> 00:00:33,000
-we're gonna make ourselves
+Nós vamos fazer
 
 10
 00:00:33,000 --> 00:00:38,000
-an application folder called ap sprint and we want to work with is well as many
+Uma pasta para a aplicação com o nome de "app-sprint". E o que vamos usar é, bem, existem diversos
 
 11
 00:00:38,000 --> 00:00:40,000
-frameworks out there I'm gonna pick one
+Frameworks por aí, eu vou escolher um deles
 
 12
 00:00:40,000 --> 00:00:43,000
-something to get started with and I'm going to
+Algo para começarmos. E eu vou para
 
 13
 00:00:43,000 --> 00:00:47,000
-and p.m. install express at a particular version
+npm install express, em uma versão específica
 
 14
 00:00:47,000 --> 00:00:51,000
-just because I know this version works
+Simplesmente porque eu sei que esta versão funciona
 
 15
 00:00:51,000 --> 00:00:55,000
-there better ways of managing application which will see later
+Existem maneiras melhores de gerenciar nossas aplicações, as quais iremos ver mais tarde
 
 16
 00:00:55,000 --> 00:01:00,000
-but this look it up in going because we'll be able to create ourselves
+Mas isto será em vão, porque seremos capazes de criar nós mesmos
 
 17
 00:01:00,000 --> 00:01:03,000
-a web framework without having to actually build everything from scratch
+Um framework web sem ter que fazer tudo do zero
 
 18
 00:01:03,000 --> 00:01:07,000
-will likely notice that we have a node modules folder one thing I think and Kim
+Gostarão de notar que temos uma pasta de módulos no Node. Uma coisa que penso e Kim
 
 19
 00:01:07,000 --> 00:01:08,000
-got really really right
+Estava realmente certo
 
 20
 00:01:08,000 --> 00:01:12,000
-was it opposed to having a centralized location for all of our packages get
+Foi ser contra existir um local centralizado para todos os pacotes
 
 21
 00:01:12,000 --> 00:01:13,000
-installed to
+Instalados
 
 22
 00:01:13,000 --> 00:01:17,000
-by default packages are installed into the local directory
+Por padrão, os pacotes são instalados no diretório local
 
 23
 00:01:17,000 --> 00:01:20,000
-which means that we have all the rights to use them and they don't collide with
+O que significa que temos toda liberdade de usá-los, e eles não entram em conflito com
 
 24
 00:01:20,000 --> 00:01:21,000
-other people's packages
+Os pacotes de outras pessoas
 
 25
 00:01:21,000 --> 00:01:25,000
-let's make use I've express
+Vamos fazer uso do express
 
 26
 00:01:25,000 --> 00:01:28,000
-to create a project scaffolding
+Para criar nosso projeto de scaffolding
 
 27
 00:01:28,000 --> 00:01:34,000
-not that I can spell that would go yes I want to continue in my non empty
+Nada que eu possa falar... Lá vamos nós... Sim eu quero continuar no meu
 
 28
 00:01:34,000 --> 00:01:35,000
-directory:
+Diretório vazio
 
 29
 00:01:35,000 --> 00:01:39,000
-now this is where we can see how node JS and teamwork
+Agora, aqui é onde podemos ver como o Node.js e o NPM funciona
 
 30
 00:01:39,000 --> 00:01:44,000
-excellently I have a package that Jason folder which will take a look at later
+Eu tenho um pacote daquela pasta de json, que vamos utilizar mais tarde
 
 31
 00:01:44,000 --> 00:01:47,000
-this allows me to manage dependencies I love my
+Isto permite que eu gerencie as dependencias do meu
 
 32
 00:01:47,000 --> 00:01:51,000
-program where I'm at I can do a simple NPM install
+Programa, onde estou posso fazer um simples "npm install"
 
 33
 00:01:51,000 --> 00:01:54,000
-everything I need gets downloaded
+Tudo que preciso é baixado
 
 34
 00:01:54,000 --> 00:01:58,000
-and get a cup coffee
+E posso tomar um copo de café
 
 35
 00:01:58,000 --> 00:02:02,000
-can hang out I can pretend my code is compiling
+Pode sair, eu posso fingir que meu código está compilando
 
 36
 00:02:02,000 --> 00:02:05,000
-there we go we're done and now we have enough to do it
+Aqui vamos nós. Está feito, e agora temos o suficiente para fazer um
 
 37
 00:02:05,000 --> 00:02:10,000
-basic lol program and make sure everything is working most programs in
+Programa básico "Hello World", e se certificar que tudo está funcionando. A maioria dos programas no
 
 38
 00:02:10,000 --> 00:02:11,000
-node
+Node
 
 39
 00:02:11,000 --> 00:02:15,000
-actually are begun by running the note interpreter on a particular
+Na verdade são iniciados pela execução do interpretador do node, em um 
 
 40
 00:02:15,000 --> 00:02:18,000
-file we do that whether application
+Arquivo em particular. Faremos isso com a nossa aplicação
 
 41
 00:02:18,000 --> 00:02:24,000
-we run note on tap that JS expressed by default runs on port 3000
+Executamos o node no app daquele JS. Express é executado na porta 3000 por padrão
 
 42
 00:02:24,000 --> 00:02:30,000
-and less is tech test this out here hello world expressed welcome to express
+E por último, vamos testar isso aqui. "Hello World! Express, welcome to express"
 
 43
 00:02:30,000 --> 00:02:37,000
-we have achieved
-
+Nós conseguimos
