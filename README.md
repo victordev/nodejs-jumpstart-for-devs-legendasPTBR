@@ -6,8 +6,8 @@
 
 #### LEGENDA: ✎ em tradução | ✔ traduzido | ✕ não traduzido (será traduzido em breve)
 
-* 01 - Installing Node.js ✔
-* 02 - Building our Project ✔
+* 01 - Installing Node.js ✔ [Eric Oliveira](https://github.com/eoop/eo_op)
+* 02 - Building our Project ✔ [Gabriel Ribeiro](https://github.com/BielRibeiro)
 * 03 - Handlebars: Switching the Template Engine ✕
 * 04 - Adding our First Template ✕
 * 05 - Geolocation: A Usable HTML5 API ✕
