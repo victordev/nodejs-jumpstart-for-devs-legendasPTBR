@@ -8,7 +8,7 @@
 
 * 01 - Installing Node.js ✔ [Eric Oliveira](https://github.com/eoop/eo_op)
 * 02 - Building our Project ✔ [Gabriel Ribeiro](https://github.com/BielRibeiro)
-* 03 - Handlebars: Switching the Template Engine ✕
+* 03 - Handlebars: Switching the Template Engine ✎ [Eric Oliveira](https://github.com/eoop/eo_op)
 * 04 - Adding our First Template ✕
 * 05 - Geolocation: A Usable HTML5 API ✕
 * 06 - Geolocations: Making it Human Friendly ✕
