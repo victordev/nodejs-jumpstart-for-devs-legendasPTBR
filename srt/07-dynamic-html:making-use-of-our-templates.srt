@@ -1,0 +1,151 @@
+1
+00:00:05,000 -> 00:00:06,000
+agora Senhor
+
+2
+00:00:06,000 -> 00:00:09,000
+Avaliação datado podemos realmente modelos de pesquisa Seaview e se não o fizer
+
+3
+00:00:09,000 -> 00:00:11,000
+normalmente usam templates esta é uma grande onda
+
+4
+00:00:11,000 -> 00:00:15,000
+dar uma olhada em como funciona guidão também tenho são
+
+5
+00:00:15,000 -> 00:00:19,000
+recortado e colado em casa essa página guidão , que é a carne
+
+6
+00:00:19,000 -> 00:00:23,000
+ter o check-in página e se fosse sempre para descrever este e apenas normal
+
+7
+00:00:23,000 -> 00:00:24,000
+Inglês o que estamos fazendo aqui
+
+8
+00:00:24,000 -> 00:00:29,000
+é se existe um erro que fica passado e vai mostrar o seu
+
+9
+00:00:29,000 -> 00:00:34,000
+e se não vemos no seu sim, o usuário tem
+
+10
+00:00:34,000 -> 00:00:39,000
+verificou em algum lugar eo servidor deu-nos um local onde a
+
+11
+00:00:39,000 -> 00:00:40,000
+usuários de check-in no
+
+12
+00:00:40,000 -> 00:00:43,000
+vamos , então, mostrar a latitude longitude do usuário
+
+13
+00:00:43,000 -> 00:00:46,000
+também mostrar-lhes o endereço que nós pensamos que seu apt
+
+14
+00:00:46,000 -> 00:00:52,000
+vamos tentar dar um presente vaiou o aplicativo novamente
+
+15
+00:00:52,000 -> 00:00:55,000
+atualizar a página
+
+16
+00:00:55,000 -> 00:01:00,000
+esperar até que encontramos a nossa localização
+
+17
+00:01:00,000 -> 00:01:03,000
+verificar n e lá vamos nós , podemos ver que nós somos
+
+18
+00:01:03,000 -> 00:01:08,000
+em algum lugar onde o seu em algum longitude latitude em San Francisco Califórnia
+
+19
+00:01:08,000 -> 00:01:16,000
+94 105
+
+1
+00:00:05,000 -> 00:00:06,000
+agora Senhor
+
+2
+00:00:06,000 -> 00:00:09,000
+Avaliação datado podemos realmente modelos de pesquisa Seaview e se não o fizer
+
+3
+00:00:09,000 -> 00:00:11,000
+normalmente usam templates esta é uma grande onda
+
+4
+00:00:11,000 -> 00:00:15,000
+dar uma olhada em como funciona guidão também tenho são
+
+5
+00:00:15,000 -> 00:00:19,000
+recortado e colado em casa essa página guidão , que é a carne
+
+6
+00:00:19,000 -> 00:00:23,000
+ter o check-in página e se fosse sempre para descrever este e apenas normal
+
+7
+00:00:23,000 -> 00:00:24,000
+Inglês o que estamos fazendo aqui
+
+8
+00:00:24,000 -> 00:00:29,000
+é se existe um erro que fica passado e vai mostrar o seu
+
+9
+00:00:29,000 -> 00:00:34,000
+e se não vemos no seu sim, o usuário tem
+
+10
+00:00:34,000 -> 00:00:39,000
+verificou em algum lugar eo servidor deu-nos um local onde a
+
+11
+00:00:39,000 -> 00:00:40,000
+usuários de check-in no
+
+12
+00:00:40,000 -> 00:00:43,000
+vamos , então, mostrar a latitude longitude do usuário
+
+13
+00:00:43,000 -> 00:00:46,000
+também mostrar-lhes o endereço que nós pensamos que seu apt
+
+14
+00:00:46,000 -> 00:00:52,000
+vamos tentar dar um presente vaiou o aplicativo novamente
+
+15
+00:00:52,000 -> 00:00:55,000
+atualizar a página
+
+16
+00:00:55,000 -> 00:01:00,000
+esperar até que encontramos a nossa localização
+
+17
+00:01:00,000 -> 00:01:03,000
+verificar n e lá vamos nós , podemos ver que nós somos
+
+18
+00:01:03,000 -> 00:01:08,000
+em algum lugar onde o seu em algum longitude latitude em San Francisco Califórnia
+
+19
+00:01:08,000 -> 00:01:16,000
+94 105

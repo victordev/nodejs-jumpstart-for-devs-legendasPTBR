@@ -1,0 +1,163 @@
+1
+00:00:05,000 -> 00:00:09,000
+a API do Geolocation fala e latitude e longitude , que é apenas números
+
+2
+00:00:09,000 -> 00:00:13,000
+e cada vez assim que nós queremos fazer isso significa amigável em legível
+
+3
+00:00:13,000 -> 00:00:17,000
+assim vai cair algum código e sua ok ok que vai nos ajudar a fazer o que nós vamos fazer
+
+4
+00:00:17,000 -> 00:00:17,000
+usar
+
+5
+00:00:17,000 -> 00:00:21,000
+até que o serviço web chamado bem órgão branco efectivamente pago de volta em cima de um rapaz
+
+6
+00:00:21,000 -> 00:00:22,000
+quem é
+
+7
+00:00:22,000 -> 00:00:25,000
+linguagem de consulta que faz algum geocodificação reversa , que é
+
+8
+00:00:25,000 -> 00:00:29,000
+tradução de latitude e longitude em endereços amigáveis ​​humanas
+
+9
+00:00:29,000 -> 00:00:34,000
+dê uma olhada no código dê uma olhada no posto índice que sim Pai.
+
+10
+00:00:34,000 -> 00:00:37,000
+adicionando uma rápida visão geral é que estamos exigindo
+
+11
+00:00:37,000 -> 00:00:41,000
+Este pedido minha escolha de ter qualquer acrescentou Eu sou apenas um segundo é o
+
+12
+00:00:41,000 -> 00:00:45,000
+API REST para fazer o pedido estão transformando nossa latitude e longitude
+
+13
+00:00:45,000 -> 00:00:49,000
+em algo que é amigável humano estaremos exportando a partir de nosso módulo de um
+
+14
+00:00:49,000 -> 00:00:54,000
+o que nós estamos chamando a função inversa goor refugio que leva latitude / longitude
+
+15
+00:00:54,000 -> 00:00:58,000
+Eu uma figura de forma síncrona que a magia já sincronicidade
+
+16
+00:00:58,000 -> 00:01:01,000
+descobrir se realmente tem um endereço
+
+17
+00:01:01,000 -> 00:01:06,000
+é um bom endereço como uma coisa que pode fazer com que o endereço ou não, então fazemos
+
+18
+00:01:06,000 -> 00:01:08,000
+essa função disponível para qualquer pessoa
+
+19
+00:01:08,000 -> 00:01:11,000
+usar este módulo é preciso ligar este módulo e
+
+20
+00:01:11,000 -> 00:01:16,000
+a cabeça do nosso Código vamos de volta para você aplicativo que JS
+
+21
+00:01:16,000 -> 00:01:22,000
+em direcção ao fundo
+
+22
+00:01:22,000 -> 00:01:25,000
+ia acrescentar mais uma , podemos ver aqui é também uma espiada
+
+23
+00:01:25,000 -> 00:01:29,000
+como funciona express
+
+24
+00:01:29,000 -> 00:01:32,000
+expressa bastante amigável humano quando arrumar as coisas , vamos configurar
+
+25
+00:01:32,000 -> 00:01:34,000
+uma postagem versos um
+
+26
+00:01:34,000 -> 00:01:43,000
+obter ficha interceptor na nossa função que acabou de fazer
+
+27
+00:01:43,000 -> 00:01:46,000
+salvar
+
+28
+00:01:46,000 -> 00:01:51,000
+e antes de testar o que precisamos fazer uma volta estamos incluindo um
+
+29
+00:01:51,000 -> 00:01:55,000
+módulo realmente maravilhoso chamado solicitações que
+
+30
+00:01:55,000 -> 00:01:59,000
+permite-nos serve você conhecer alguém dos seus pedidos a sua profunda
+
+31
+00:01:59,000 -> 00:02:02,000
+perguntas que não têm jesse vamos NPN install
+
+32
+00:02:02,000 -> 00:02:05,000
+pedido de uma versão especial
+
+33
+00:02:05,000 -> 00:02:09,000
+e magicamente salvá-lo ou dependências para
+
+34
+00:02:09,000 -> 00:02:13,000
+em me salvar nosso código em nosso relatório não tem que se lembrar para escrevê-lo
+
+35
+00:02:13,000 -> 00:02:13,000
+nós mesmos
+
+36
+00:02:13,000 -> 00:02:17,000
+em apenas uma questão de momentos
+
+37
+00:02:17,000 -> 00:02:22,000
+coisas Vamos testar a nossa código é executado
+
+38
+00:02:22,000 -> 00:02:28,000
+o check-in e podemos ver
+
+39
+00:02:28,000 -> 00:02:31,000
+de volta ao terminal que sim , estamos recebendo a informação a partir do navegador
+
+40
+00:02:31,000 -> 00:02:37,000
+não há erro e estamos em San Francisco da Califórnia 94 105
+
+41
+00:02:37,000 -> 00:02:43,000
+onde quer que seja
