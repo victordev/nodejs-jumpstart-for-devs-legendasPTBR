@@ -1,0 +1,135 @@
+1
+00:00:05,000 -> 00:00:09,000
+sempre usando node.js devemos ter tanto do lado do cliente
+
+2
+00:00:09,000 -> 00:00:12,000
+e server-side JavaScript , então eu era um simples vamos em
+
+3
+00:00:12,000 -> 00:00:16,000
+Eu tinha Geolocation API no navegador
+
+4
+00:00:16,000 -> 00:00:19,000
+para que nossos usuários podem verificar e e eles podem tomar-se onde quer que estejam
+
+5
+00:00:19,000 -> 00:00:19,000
+ficar em
+
+6
+00:00:19,000 -> 00:00:24,000
+aqui está o casaco que eu estava ataque mágico que muito rápido
+
+7
+00:00:24,000 -> 00:00:28,000
+realmente o que é i rumina ontem bem é ir rapidamente através deste que é
+
+8
+00:00:28,000 -> 00:00:32,000
+a API do Geolocation é sobre o objeto navigator vamos verificar para ver se é
+
+9
+00:00:32,000 -> 00:00:33,000
+aqui ou não
+
+10
+00:00:33,000 -> 00:00:37,000
+e , em seguida, se for nós vamos sentido o caminho para o navegador de dizer
+
+11
+00:00:37,000 -> 00:00:41,000
+você gostaria de nos dar a sua localização , por favor e depois nós vamos
+
+12
+00:00:41,000 -> 00:00:42,000
+incorporar na forma
+
+13
+00:00:42,000 -> 00:00:46,000
+a latitude / longitude onde os usuários de e torná-lo disponível para os anos
+
+14
+00:00:46,000 -> 00:00:46,000
+atrás
+
+15
+00:00:46,000 -> 00:00:50,000
+verificá-lo experimentar esta pessoa para fora o que precisamos fazer é
+
+16
+00:00:50,000 -> 00:00:55,000
+este código mágico que vive eo cliente javascripts público que sim
+
+17
+00:00:55,000 -> 00:00:58,000
+para tudo na pasta pública se você ir com o projeto de lei que estamos usando
+
+18
+00:00:58,000 -> 00:00:59,000
+com expressa aqui
+
+19
+00:00:59,000 -> 00:01:02,000
+é considerado arquivo estático por isso, se você faz uma solicitação HTTP
+
+20
+00:01:02,000 -> 00:01:05,000
+nada é nesta pasta é lá fora, vai ser servido
+
+21
+00:01:05,000 -> 00:01:09,000
+precisamos voltar para nossos telespectadores novamente não apenas um tempo em seus pontos de vista em
+
+22
+00:01:09,000 -> 00:01:10,000
+em desenvolvimento
+
+23
+00:01:10,000 -> 00:01:14,000
+abouts passou nossos principais guidão e queremos incluir
+
+24
+00:01:14,000 -> 00:01:19,000
+que os representantes de JavaScript , se eu puder fita
+
+25
+00:01:19,000 -> 00:01:24,000
+e joelho
+
+26
+00:01:24,000 -> 00:01:27,000
+pasta javascripts
+
+27
+00:01:27,000 -> 00:01:33,000
+cliente JS e vamos ver
+
+28
+00:01:33,000 -> 00:01:36,000
+podemos ver que a nota II devo dizer expresso ainda está em execução
+
+29
+00:01:36,000 -> 00:01:40,000
+notado luzes de circulação reprise na página percebe-se que o check-in , mas Neways
+
+30
+00:01:40,000 -> 00:01:45,000
+mágico EE definido e podemos postar apesar de não ir a qualquer lugar
+
+31
+00:01:45,000 -> 00:01:49,000
+dar uma olhada rápida na campainha para certificar-se de obras de código de atualizar a página
+
+32
+00:01:49,000 -> 00:01:55,000
+e podemos ver de fato
+
+33
+00:01:55,000 -> 00:01:58,000
+minha longitude latitude está sendo armazenado na forma estamos prontos
+
+34
+00:01:58,000 -> 00:02:06,000
+para o próximo aplicativo que é descobrir onde diabos eu sou
