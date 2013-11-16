@@ -10,9 +10,9 @@
 * 02 - Building our Project ✔ [Gabriel Ribeiro](https://github.com/BielRibeiro)
 * 03 - Handlebars: Switching the Template Engine ✎ [Eric Oliveira](https://github.com/eoop/eo_op)
 * 04 - Adding our First Template ✕
-* 05 - Geolocation: A Usable HTML5 API ✕
-* 06 - Geolocations: Making it Human Friendly ✕
-* 07 - Dynamic HTML: Making Use of Our Templates ✕
+* 05 - Geolocation: A Usable HTML5 API ✔ [Gustavo Pereira](https://github.com/gustavodemari)
+* 06 - Geolocations: Making it Human Friendly ✔ [Gustavo Pereira](https://github.com/gustavodemari)
+* 07 - Dynamic HTML: Making Use of Our Templates ✔ [Gustavo Pereira](https://github.com/gustavodemari)
 * 08 - Simple Persistence w/ SQLite & an ORM Package ✕
 * 09 - Tracking Ourselves ✕
 * 10 - Displaying Places We've Been ✕
